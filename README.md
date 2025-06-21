@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adithya262/Leetcode_Aditya/tree/master/0141-linked-list-cycle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adithya262/Leetcode_Aditya/tree/master/2144-maximum-difference-between-increasing-elements) |
