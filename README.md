@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adithya262/Leetcode_Aditya/tree/master/0141-linked-list-cycle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Greedy
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Sorting
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Counting
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 <!---LeetCode Topics End-->
