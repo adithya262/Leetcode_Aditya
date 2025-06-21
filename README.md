@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adithya262/Leetcode_Aditya/tree/master/0141-linked-list-cycle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -52,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Math
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
