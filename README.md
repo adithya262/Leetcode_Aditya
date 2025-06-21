@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adithya262/Leetcode_Aditya/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/adithya262/Leetcode_Aditya/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/adithya262/Leetcode_Aditya/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adithya262/Leetcode_Aditya/tree/master/0908-middle-of-the-linked-list) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adithya262/Leetcode_Aditya/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/adithya262/Leetcode_Aditya/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
