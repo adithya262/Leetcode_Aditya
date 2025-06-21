@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/adithya262/Leetcode_Aditya/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/adithya262/Leetcode_Aditya/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sliding Window
