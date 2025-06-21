@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adithya262/Leetcode_Aditya/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
