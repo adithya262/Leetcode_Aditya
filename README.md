@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adithya262/Leetcode_Aditya/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
