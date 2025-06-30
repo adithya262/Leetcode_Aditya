@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
