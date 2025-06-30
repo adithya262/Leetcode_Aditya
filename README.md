@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adithya262/Leetcode_Aditya/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adithya262/Leetcode_Aditya/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/adithya262/Leetcode_Aditya/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
