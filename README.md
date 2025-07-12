@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adithya262/Leetcode_Aditya/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/adithya262/Leetcode_Aditya/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
