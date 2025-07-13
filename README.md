@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/adithya262/Leetcode_Aditya/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1894-merge-strings-alternately](https://github.com/adithya262/Leetcode_Aditya/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/adithya262/Leetcode_Aditya/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/adithya262/Leetcode_Aditya/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
