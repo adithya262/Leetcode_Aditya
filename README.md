@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/adithya262/Leetcode_Aditya/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/adithya262/Leetcode_Aditya/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sliding Window
