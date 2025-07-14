@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adithya262/Leetcode_Aditya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adithya262/Leetcode_Aditya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0392-is-subsequence) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/adithya262/Leetcode_Aditya/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
