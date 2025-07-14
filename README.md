@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/adithya262/Leetcode_Aditya/tree/master/0782-jewels-and-stones) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/adithya262/Leetcode_Aditya/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adithya262/Leetcode_Aditya/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/adithya262/Leetcode_Aditya/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/adithya262/Leetcode_Aditya/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/adithya262/Leetcode_Aditya/tree/master/2140-longest-subsequence-repeated-k-times) |
