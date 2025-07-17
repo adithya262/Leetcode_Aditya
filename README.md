@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adithya262/Leetcode_Aditya/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/adithya262/Leetcode_Aditya/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/adithya262/Leetcode_Aditya/tree/master/0238-product-of-array-except-self) |
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/adithya262/Leetcode_Aditya/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adithya262/Leetcode_Aditya/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/adithya262/Leetcode_Aditya/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/3600-find-the-k-th-character-in-string-game-i) |
