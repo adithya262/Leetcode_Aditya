@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/adithya262/Leetcode_Aditya/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/adithya262/Leetcode_Aditya/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/adithya262/Leetcode_Aditya/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adithya262/Leetcode_Aditya/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/adithya262/Leetcode_Aditya/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/adithya262/Leetcode_Aditya/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Prefix Sum
