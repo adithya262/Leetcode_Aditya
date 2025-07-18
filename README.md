@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adithya262/Leetcode_Aditya/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/adithya262/Leetcode_Aditya/tree/master/0367-valid-perfect-square) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/adithya262/Leetcode_Aditya/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adithya262/Leetcode_Aditya/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/adithya262/Leetcode_Aditya/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adithya262/Leetcode_Aditya/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/adithya262/Leetcode_Aditya/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/adithya262/Leetcode_Aditya/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/adithya262/Leetcode_Aditya/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adithya262/Leetcode_Aditya/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/adithya262/Leetcode_Aditya/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
