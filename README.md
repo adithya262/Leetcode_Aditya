@@ -231,13 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
