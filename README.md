@@ -228,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adithya262/Leetcode_Aditya/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
