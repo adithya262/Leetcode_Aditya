@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adithya262/Leetcode_Aditya/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adithya262/Leetcode_Aditya/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/adithya262/Leetcode_Aditya/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adithya262/Leetcode_Aditya/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/adithya262/Leetcode_Aditya/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adithya262/Leetcode_Aditya/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adithya262/Leetcode_Aditya/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/adithya262/Leetcode_Aditya/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
