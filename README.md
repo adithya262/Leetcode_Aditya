@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adithya262/Leetcode_Aditya/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/adithya262/Leetcode_Aditya/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/adithya262/Leetcode_Aditya/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adithya262/Leetcode_Aditya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adithya262/Leetcode_Aditya/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adithya262/Leetcode_Aditya/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/adithya262/Leetcode_Aditya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adithya262/Leetcode_Aditya/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/adithya262/Leetcode_Aditya/tree/master/0594-longest-harmonious-subsequence) |
