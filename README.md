@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adithya262/Leetcode_Aditya/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adithya262/Leetcode_Aditya/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/adithya262/Leetcode_Aditya/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adithya262/Leetcode_Aditya/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adithya262/Leetcode_Aditya/tree/master/0056-merge-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adithya262/Leetcode_Aditya/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adithya262/Leetcode_Aditya/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/adithya262/Leetcode_Aditya/tree/master/0367-valid-perfect-square) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/adithya262/Leetcode_Aditya/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -263,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adithya262/Leetcode_Aditya/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adithya262/Leetcode_Aditya/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
